@@ -1,4 +1,4 @@
-const arrayOfQuotes = [
+var arrayOfQuotes = [
     {'author': 'Oscar Wilde', 
      'quote': '“Be yourself; everyone else is already taken.”'
     },
